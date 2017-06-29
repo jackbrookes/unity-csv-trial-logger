@@ -7,6 +7,8 @@ By default, this asset logs trial number, participant ID, trial start and end ti
 Data is logged to StreamingAssets, which is accessible from the game folder (even when built)
 https://docs.unity3d.com/Manual/StreamingAssets.html
 
+### Now on asset store!
+https://www.assetstore.unity3d.com/en/#!/content/89302
 
 Instructions to use:
 
